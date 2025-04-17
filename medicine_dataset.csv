@@ -1,0 +1,151 @@
+Medicine_Name,Generic_Name,Dosage,Usage,Side_Effects,Precautions,Category
+Dolo 650,Paracetamol,650mg,Fever and pain relief,"Nausea, skin rash",Do not exceed 4000mg per day,Analgesic
+Crocin Advance,Paracetamol,500mg,Fever and pain relief,"Nausea, liver problems in overdose",Do not exceed recommended dose,Analgesic
+Combiflam,Ibuprofen + Paracetamol,400mg + 325mg,Pain and inflammation,"Stomach upset, dizziness",Take with food,NSAID
+Disprin,Aspirin,300mg,Pain and fever relief,Stomach irritation,Avoid in gastric problems,NSAID
+Meftal Forte,Mefenamic Acid,500mg,Pain and fever relief,"Stomach upset, dizziness",Take with food,NSAID
+Voveran,Diclofenac,50mg,Pain and inflammation,"Stomach upset, headache",Take with food,NSAID
+Augmentin 625,Amoxicillin + Clavulanic Acid,500mg + 125mg,Bacterial infections,"Diarrhea, nausea",Complete full course,Antibiotic
+Azithral 500,Azithromycin,500mg,Bacterial infections,"Stomach upset, diarrhea",Take on empty stomach,Antibiotic
+Cifran 500,Ciprofloxacin,500mg,Urinary tract infections,"Tendon problems, nausea",Avoid in pregnancy,Antibiotic
+Monocef,Cefpodoxime,200mg,Bacterial infections,"Diarrhea, nausea",Complete full course,Antibiotic
+Roxid,Roxithromycin,150mg,Bacterial infections,"Stomach upset, diarrhea",Take with food,Antibiotic
+Glycomet 500,Metformin,500mg,Type 2 diabetes,"Nausea, diarrhea",Take with meals,Antidiabetic
+Januvia,Sitagliptin,100mg,Type 2 diabetes,Upper respiratory infection,Monitor kidney function,Antidiabetic
+Gemer,Glimepiride,1mg,Type 2 diabetes,Low blood sugar,Take with breakfast,Antidiabetic
+Glizid,Gliclazide,80mg,Type 2 diabetes,Low blood sugar,Take with breakfast,Antidiabetic
+Telma 40,Telmisartan,40mg,High blood pressure,"Dizziness, back pain",Regular BP monitoring,Antihypertensive
+Amlodac 5,Amlodipine,5mg,High blood pressure,Swelling in ankles,Take at same time daily,Antihypertensive
+Cardace,Ramipril,5mg,High blood pressure,"Cough, dizziness",Regular BP monitoring,Antihypertensive
+Nebistar,Nebivolol,5mg,High blood pressure,"Fatigue, dizziness",Do not stop abruptly,Antihypertensive
+Allegra 120,Fexofenadine,120mg,"Allergies, hay fever","Headache, drowsiness",Avoid alcohol,Antihistamine
+Cetrizine,Cetirizine,10mg,Allergies,Drowsiness,Do not drive after taking,Antihistamine
+Levocet,Levocetirizine,5mg,Allergies,Drowsiness,Do not drive after taking,Antihistamine
+Pantop 40,Pantoprazole,40mg,"Acid reflux, ulcers","Headache, diarrhea",Take before meals,PPI
+Rantac 150,Ranitidine,150mg,Acid reflux,"Headache, constipation",Take before meals,H2 Blocker
+Omez,Omeprazole,20mg,"Acid reflux, ulcers","Headache, diarrhea",Take before meals,PPI
+Atorva 10,Atorvastatin,10mg,High cholesterol,Muscle pain,Avoid grapefruit,Statin
+Rosuvas 10,Rosuvastatin,10mg,High cholesterol,Muscle weakness,Regular liver monitoring,Statin
+Storvas,Atorvastatin,10mg,High cholesterol,Muscle pain,Avoid grapefruit,Statin
+Flunil 20,Fluoxetine,20mg,"Depression, anxiety","Nausea, insomnia",Do not stop abruptly,Antidepressant
+Nexito 10,Escitalopram,10mg,"Depression, anxiety","Drowsiness, dry mouth",Avoid alcohol,Antidepressant
+Sertral,Sertraline,50mg,"Depression, anxiety","Nausea, insomnia",Do not stop abruptly,Antidepressant
+Shelcal 500,Calcium + Vitamin D3,500mg + 250IU,Calcium deficiency,Constipation,Take after meals,Supplement
+Zincovit,Multivitamin + Minerals,1 tablet,Vitamin deficiency,Mild nausea,Take with meals,Supplement
+Becosules,Vitamin B Complex,1 capsule,Vitamin B deficiency,Mild nausea,Take with meals,Supplement
+Asthalin,Salbutamol,4mg,"Asthma, bronchitis","Tremors, palpitations",Do not exceed dose,Bronchodilator
+Montair LC,Montelukast + Levocetirizine,10mg + 5mg,Allergic asthma,Drowsiness,Take at bedtime,Antiasthmatic
+Deriphyllin,Etofylline + Theophylline,100mg + 200mg,"Asthma, bronchitis","Nausea, palpitations",Take with food,Bronchodilator
+Restyl 0.25,Alprazolam,0.25mg,"Anxiety, panic disorders","Drowsiness, dependence",Do not stop abruptly,Anxiolytic
+Ativan 1,Lorazepam,1mg,Anxiety,"Sedation, weakness",Avoid alcohol,Anxiolytic
+Etizola,Etizolam,0.5mg,"Anxiety, insomnia","Drowsiness, dependence",Do not stop abruptly,Anxiolytic
+Flucos 150,Fluconazole,150mg,Fungal infections,"Nausea, headache",Complete prescribed course,Antifungal
+Candid-B,Clotrimazole + Beclomethasone,1% + 0.025%,Skin fungal infections,Local irritation,External use only,Antifungal
+Candiforce,Fluconazole,150mg,Fungal infections,"Nausea, headache",Complete prescribed course,Antifungal
+Valcivir 500,Valacyclovir,500mg,Herpes infections,"Headache, nausea",Maintain hydration,Antiviral
+Acivir 800,Acyclovir,800mg,Viral infections,"Dizziness, fatigue",Complete full course,Antiviral
+Hepcvir,Sofosbuvir,400mg,Hepatitis C,"Fatigue, headache",Take with food,Antiviral
+Flexon MR,Chlorzoxazone + Diclofenac + Paracetamol,500mg + 50mg + 325mg,Muscle spasm,Drowsiness,Do not drive,Muscle Relaxant
+Myospaz Forte,Chlorzoxazone + Diclofenac + Paracetamol,500mg + 50mg + 325mg,Muscle pain,Stomach upset,Take with food,Muscle Relaxant
+Tolperis,Tolperisone,150mg,Muscle spasm,"Drowsiness, weakness",Do not drive,Muscle Relaxant
+Thyronorm,Levothyroxine,50mcg,Hypothyroidism,"Palpitations, weight loss",Take empty stomach,Thyroid
+Eltroxin,Levothyroxine,50mcg,Hypothyroidism,"Palpitations, weight loss",Take empty stomach,Thyroid
+Emanzen,Domperidone,10mg,"Nausea, vomiting","Headache, dry mouth",Take before meals,Antiemetic
+Perinorm,Metoclopramide,10mg,"Nausea, vomiting","Drowsiness, restlessness",Do not drive,Antiemetic
+Risperdal,Risperidone,2mg,"Schizophrenia, bipolar disorder","Drowsiness, weight gain",Do not stop abruptly,Antipsychotic
+Olanzap,Olanzapine,5mg,"Schizophrenia, bipolar disorder","Drowsiness, weight gain",Do not stop abruptly,Antipsychotic
+Lasix,Furosemide,40mg,"Edema, hypertension","Low potassium, dehydration",Monitor electrolytes,Diuretic
+Dytor,Torasemide,10mg,"Edema, hypertension","Low potassium, dehydration",Monitor electrolytes,Diuretic
+Ecosprin,Aspirin,75mg,Blood thinner,"Bleeding, stomach upset",Take with food,Anticoagulant
+Clopilet,Clopidogrel,75mg,Blood thinner,"Bleeding, bruising",Monitor for bleeding,Anticoagulant
+Sumo,Nimesulide,100mg,Pain and fever relief,"Stomach upset, liver problems","Take with food, avoid alcohol",NSAID
+Dart,Diclofenac,50mg,Pain and inflammation,"Stomach upset, headache",Take with food,NSAID
+Nise,Nimesulide,100mg,Pain and fever relief,"Stomach upset, liver problems","Take with food, avoid alcohol",NSAID
+Ponstan,Mefenamic Acid,500mg,Pain and fever relief,"Stomach upset, dizziness",Take with food,NSAID
+Monocef O,Cefpodoxime,200mg,Bacterial infections,"Diarrhea, nausea",Complete full course,Antibiotic
+Taxim O,Cefixime,200mg,Bacterial infections,"Diarrhea, nausea",Complete full course,Antibiotic
+Mox,Amoxicillin,500mg,Bacterial infections,"Diarrhea, nausea",Complete full course,Antibiotic
+Ciplox,Ciprofloxacin,500mg,Bacterial infections,"Tendon problems, nausea",Avoid in pregnancy,Antibiotic
+Glimestar,Glimepiride,1mg,Type 2 diabetes,Low blood sugar,Take with breakfast,Antidiabetic
+Diamicron,Gliclazide,80mg,Type 2 diabetes,Low blood sugar,Take with breakfast,Antidiabetic
+Galvus,Vildagliptin,50mg,Type 2 diabetes,Upper respiratory infection,Monitor kidney function,Antidiabetic
+Losar,Losartan,50mg,High blood pressure,"Dizziness, back pain",Regular BP monitoring,Antihypertensive
+Zestril,Lisinopril,5mg,High blood pressure,"Cough, dizziness",Regular BP monitoring,Antihypertensive
+Concor,Bisoprolol,5mg,High blood pressure,"Fatigue, dizziness",Do not stop abruptly,Antihypertensive
+Avil,Pheniramine,25mg,Allergies,Drowsiness,Do not drive after taking,Antihistamine
+Benadryl,Diphenhydramine,25mg,Allergies,Drowsiness,Do not drive after taking,Antihistamine
+Nexpro,Esomeprazole,40mg,"Acid reflux, ulcers","Headache, diarrhea",Take before meals,PPI
+Rablet,Rabeprazole,20mg,"Acid reflux, ulcers","Headache, diarrhea",Take before meals,PPI
+Lipicure,Atorvastatin,10mg,High cholesterol,Muscle pain,Avoid grapefruit,Statin
+Rosuvas,Rosuvastatin,10mg,High cholesterol,Muscle weakness,Regular liver monitoring,Statin
+Prodep,Fluoxetine,20mg,"Depression, anxiety","Nausea, insomnia",Do not stop abruptly,Antidepressant
+Depsonil,Sertraline,50mg,"Depression, anxiety","Nausea, insomnia",Do not stop abruptly,Antidepressant
+Revital,Multivitamin + Minerals,1 tablet,Vitamin deficiency,Mild nausea,Take with meals,Supplement
+Supradyn,Multivitamin + Minerals,1 tablet,Vitamin deficiency,Mild nausea,Take with meals,Supplement
+Duolin,Ipratropium + Levosalbutamol,20mcg + 50mcg,"Asthma, COPD","Tremors, palpitations",Do not exceed dose,Bronchodilator
+Foracort,Formoterol + Budesonide,6mcg + 200mcg,"Asthma, COPD","Tremors, palpitations",Do not exceed dose,Bronchodilator
+Paxidep,Paroxetine,12.5mg,"Anxiety, depression","Drowsiness, dependence",Do not stop abruptly,Anxiolytic
+Anxit,Alprazolam,0.25mg,"Anxiety, panic disorders","Drowsiness, dependence",Do not stop abruptly,Anxiolytic
+Candiforce,Fluconazole,150mg,Fungal infections,"Nausea, headache",Complete prescribed course,Antifungal
+Fungisome,Amphotericin B,50mg,Severe fungal infections,"Fever, chills",Hospital administration only,Antifungal
+Valcivir,Valacyclovir,500mg,Herpes infections,"Headache, nausea",Maintain hydration,Antiviral
+Acivir,Acyclovir,800mg,Viral infections,"Dizziness, fatigue",Complete full course,Antiviral
+Myospaz,Chlorzoxazone,500mg,Muscle spasm,Drowsiness,Do not drive,Muscle Relaxant
+Thyronorm,Levothyroxine,50mcg,Hypothyroidism,"Palpitations, weight loss",Take empty stomach,Thyroid
+Eltroxin,Levothyroxine,50mcg,Hypothyroidism,"Palpitations, weight loss",Take empty stomach,Thyroid
+Ondem,Ondansetron,4mg,"Nausea, vomiting","Headache, constipation",Take before chemotherapy,Antiemetic
+Emeset,Ondansetron,4mg,"Nausea, vomiting","Headache, constipation",Take before chemotherapy,Antiemetic
+Risperdal,Risperidone,2mg,"Schizophrenia, bipolar disorder","Drowsiness, weight gain",Do not stop abruptly,Antipsychotic
+Olanzap,Olanzapine,5mg,"Schizophrenia, bipolar disorder","Drowsiness, weight gain",Do not stop abruptly,Antipsychotic
+Lasix,Furosemide,40mg,"Edema, hypertension","Low potassium, dehydration",Monitor electrolytes,Diuretic
+Dytor,Torasemide,10mg,"Edema, hypertension","Low potassium, dehydration",Monitor electrolytes,Diuretic
+Ecosprin,Aspirin,75mg,Blood thinner,"Bleeding, stomach upset",Take with food,Anticoagulant
+Clopilet,Clopidogrel,75mg,Blood thinner,"Bleeding, bruising",Monitor for bleeding,Anticoagulant
+Eptoin,Phenytoin,100mg,Epilepsy,"Drowsiness, gum swelling",Regular blood tests needed,Antiepileptic
+Tegrital,Carbamazepine,200mg,"Epilepsy, nerve pain","Drowsiness, dizziness",Regular blood tests needed,Antiepileptic
+Lariago,Chloroquine,250mg,Malaria,"Nausea, headache",Take with food,Antimalarial
+Falcigo,Artemether + Lumefantrine,80mg + 480mg,Malaria,"Nausea, headache",Take with fatty food,Antimalarial
+Rifampicin,Rifampin,450mg,Tuberculosis,"Liver problems, orange urine",Take empty stomach,Antitubercular
+Isoniazid,Isoniazid,300mg,Tuberculosis,"Liver problems, numbness",Take with food,Antitubercular
+Parcopa,Levodopa + Carbidopa,100mg + 25mg,Parkinson's disease,"Nausea, dizziness",Take with food,Antiparkinsonian
+Pramipex,Pramipexole,0.25mg,Parkinson's disease,"Nausea, dizziness",Take with food,Antiparkinsonian
+Zyloric,Allopurinol,100mg,Gout,"Rash, stomach upset",Take with meals,Antigout
+Feburic,Febuxostat,40mg,Gout,"Liver problems, rash",Take with meals,Antigout
+Drotin,Drotaverine,80mg,Abdominal cramps,"Dizziness, nausea",Take with food,Antispasmodic
+Colimex,Dicyclomine,10mg,Irritable bowel syndrome,"Dry mouth, dizziness",Take with food,Antispasmodic
+Migranil,Sumatriptan,50mg,Migraine,"Chest tightness, dizziness",Take at first sign of migraine,Antimigraine
+Migranex,Rizatriptan,10mg,Migraine,"Dizziness, fatigue",Take at first sign of migraine,Antimigraine
+Flagyl,Metronidazole,400mg,Protozoal infections,"Nausea, metallic taste",Avoid alcohol,Antiprotozoal
+Tiniba,Tinidazole,500mg,Protozoal infections,"Nausea, metallic taste",Avoid alcohol,Antiprotozoal
+Zentel,Albendazole,400mg,Worm infections,"Nausea, dizziness",Take with food,Anthelmintic
+Mebex,Mebendazole,100mg,Worm infections,"Nausea, dizziness",Take with food,Anthelmintic
+Lamprene,Clofazimine,100mg,Leprosy,Skin discoloration,Take with food,Antileprotic
+Dapsone,Dapsone,100mg,Leprosy,"Anemia, rash",Regular blood tests needed,Antileprotic
+Efavirenz,Efavirenz,600mg,HIV infection,"Dizziness, rash",Take at bedtime,Antiretroviral
+Lamivudine,Lamivudine,300mg,HIV infection,"Nausea, headache",Take with food,Antiretroviral
+Methotrexate,Methotrexate,2.5mg,"Cancer, autoimmune diseases","Low blood counts, liver problems",Regular blood tests needed,Antineoplastic
+Cyclophosphamide,Cyclophosphamide,50mg,"Cancer, autoimmune diseases","Low blood counts, hair loss",Regular blood tests needed,Antineoplastic
+Azoran,Azathioprine,50mg,"Organ transplant, autoimmune diseases","Low blood counts, infections",Regular blood tests needed,Immunosuppressant
+Cyclosporine,Cyclosporine,100mg,"Organ transplant, autoimmune diseases","High blood pressure, kidney problems",Regular blood tests needed,Immunosuppressant
+Sulfasalazine,Sulfasalazine,500mg,Rheumatoid arthritis,"Nausea, headache",Take with food,Antirheumatic
+Hydroxychloroquine,Hydroxychloroquine,200mg,Rheumatoid arthritis,"Eye problems, stomach upset",Regular eye checkups needed,Antirheumatic
+Ondem,Ondansetron,4mg,"Nausea, vomiting","Headache, constipation",Take before chemotherapy,Antiemetic
+Emeset,Ondansetron,4mg,"Nausea, vomiting","Headache, constipation",Take before chemotherapy,Antiemetic
+Gelusil,Aluminium Hydroxide + Magnesium Hydroxide,400mg + 400mg,Acid reflux,"Constipation, diarrhea",Take after meals,Antacid
+Digene,Aluminium Hydroxide + Magnesium Hydroxide,400mg + 400mg,Acid reflux,"Constipation, diarrhea",Take after meals,Antacid
+Duphalac,Lactulose,10ml,Constipation,"Bloating, cramps",Take with plenty of water,Laxative
+Cremaffin,Liquid Paraffin + Milk of Magnesia,5ml + 5ml,Constipation,"Diarrhea, cramps",Take with plenty of water,Laxative
+Lomotil,Diphenoxylate + Atropine,2.5mg + 0.025mg,Diarrhea,"Drowsiness, dry mouth",Do not exceed dose,Antidiarrheal
+Imodium,Loperamide,2mg,Diarrhea,"Constipation, dizziness",Do not exceed dose,Antidiarrheal
+Gas-O-Fast,Simethicone,40mg,"Gas, bloating",None reported,Take after meals,Antiflatulent
+Disflatyl,Simethicone,40mg,"Gas, bloating",None reported,Take after meals,Antiflatulent
+Vomikind,Ondansetron,4mg,"Nausea, vomiting","Headache, constipation",Take before chemotherapy,Antiemetic
+Emeset,Ondansetron,4mg,"Nausea, vomiting","Headache, constipation",Take before chemotherapy,Antiemetic
+Gelusil,Aluminium Hydroxide + Magnesium Hydroxide,400mg + 400mg,Acid reflux,"Constipation, diarrhea",Take after meals,Antacid
+Digene,Aluminium Hydroxide + Magnesium Hydroxide,400mg + 400mg,Acid reflux,"Constipation, diarrhea",Take after meals,Antacid
+Duphalac,Lactulose,10ml,Constipation,"Bloating, cramps",Take with plenty of water,Laxative
+Cremaffin,Liquid Paraffin + Milk of Magnesia,5ml + 5ml,Constipation,"Diarrhea, cramps",Take with plenty of water,Laxative
+Lomotil,Diphenoxylate + Atropine,2.5mg + 0.025mg,Diarrhea,"Drowsiness, dry mouth",Do not exceed dose,Antidiarrheal
+Imodium,Loperamide,2mg,Diarrhea,"Constipation, dizziness",Do not exceed dose,Antidiarrheal
+Gas-O-Fast,Simethicone,40mg,"Gas, bloating",None reported,Take after meals,Antiflatulent
+Disflatyl,Simethicone,40mg,"Gas, bloating",None reported,Take after meals,Antiflatulent
