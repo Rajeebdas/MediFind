@@ -1,6 +1,6 @@
 # Medicine Recommendation System
 
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-Click%20Here-brightgreen?style=for-the-badge&logo=google-chrome)](https://your-medicine-recommendation-site.com)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-Click%20Here-brightgreen?style=for-the-badge&logo=google-chrome)](medifind-web.netlify.app)
 
 ---
 
@@ -19,32 +19,8 @@ Welcome to the **Medicine Recommendation System**! This project leverages modern
 ---
 
 ## 🛠️ Technologies Used
-- Python / JavaScript / [Framework Used]
+- Python / JavaScript 
 - Machine Learning / AI models
-- [Add more relevant technologies]
-
----
-
-## 📦 Installation
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/medicine-recommendation.git
-   cd medicine-recommendation
-   ```
-2. **Install dependencies**
-   ```bash
-   # Example for Python
-   pip install -r requirements.txt
-   # Or for Node.js
-   npm install
-   ```
-3. **Run the application**
-   ```bash
-   # Python
-   python app.py
-   # Or for Node.js
-   npm start
-   ```
 
 ---
 
