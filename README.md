@@ -2,7 +2,6 @@
 
 [![Visit Site](https://img.shields.io/badge/Visit%20Site-Click%20Here-brightgreen?style=for-the-badge&logo=google-chrome)](https://medifind-web.netlify.app)
 
-![MediFind Banner](https://via.placeholder.com/1200x400/6c5ce7/ffffff?text=MediFind+-+Smart+Medicine+Explorer)
 
 
 ---
@@ -28,7 +27,7 @@ Welcome to the **Medicine Recommendation System**! This project leverages modern
 ---
 
 ## 💡 How to Use
-1. Visit the [site](https://your-medicine-recommendation-site.com) or run locally.
+1. Visit the [site](https://medifind-web.netlify.app) or run locally.
 2. Enter your symptoms and relevant health information.
 3. Receive tailored medicine recommendations instantly.
 4. Always consult a healthcare professional before taking any medication.
