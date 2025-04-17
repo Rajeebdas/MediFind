@@ -1,6 +1,9 @@
 # Medicine Recommendation System
 
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-Click%20Here-brightgreen?style=for-the-badge&logo=google-chrome)](medifind-web.netlify.app)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-Click%20Here-brightgreen?style=for-the-badge&logo=google-chrome)](https://medifind-web.netlify.app)
+
+![MediFind Banner](https://via.placeholder.com/1200x400/6c5ce7/ffffff?text=MediFind+-+Smart+Medicine+Explorer)
+
 
 ---
 
